@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/undo"
+        android:title="Previous"
+        app:showAsAction="always"
+        android:id="@+id/menu_previous"/>
+    <item android:icon="@drawable/content_save"
+        android:title="Save"
+        app:showAsAction="always"
+        android:id="@+id/menu_save"/>
+</menu>
